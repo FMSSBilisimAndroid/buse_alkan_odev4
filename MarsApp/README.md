@@ -1,5 +1,5 @@
 ## Mars Real Estate App 
-<p align="center"><img height="300" width="250" src="https://raw.githubusercontent.com/FMSSBilisimAndroid/buse_alkan_odev4/main/buse_alkan_odev4/MarsApp/screens/mars.png"/></p>
+<p align="center"><img height="300" width="250" src="https://raw.githubusercontent.com/FMSSBilisimAndroid/buse_alkan_odev4/main/MarsApp/screens/mars.png"/></p>
 
 ## Outputs
 https://user-images.githubusercontent.com/60299020/190401424-f89fe1bd-8305-4f62-96d2-8161e10585ec.mp4
@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/60299020/190401424-f89fe1bd-8305-4f62-
 
 
 ## Clean Simple Architecture
-<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/FMSSBilisimAndroid/buse_alkan_odev3/main/buse_alkan_odev4/MarsApp/screens/screens/mvvm.png"/></p>
+<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/FMSSBilisimAndroid/buse_alkan_odev4/main/MarsApp/screens/mvvm.png"/></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>               
 
 ## Libraries and Tools 
